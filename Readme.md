@@ -4,12 +4,14 @@
 # Despliegue
 ### Paso 1. Crear repositorio
 ### Paso 2. Subir archivos
+Para configurar repositorio:
 ``` 
 git init
 git remote add origin https://github.com/ever4ever-ing/eventos_crud.git
 git branch -M main
 git push -u origin main
 ```
+Para subir archivos:
 ```
 git add .
 git commit -m "primer commit"
@@ -63,3 +65,29 @@ Friendship-Flask/
 - `requirements.txt`: Lista de dependencias de Python necesarias para el proyecto.
 - `server.py`: Archivo principal para ejecutar la aplicación Flask.
 - `Readme.md`: Documentación del proyecto.
+
+
+
+## Comandos en aws
+    1  ls
+    2  ifconfig
+    3  https://github.com/ever4ever-ing/eventos_crud.git
+    4  git clone https://github.com/ever4ever-ing/eventos_crud.git
+    5  ls
+    6  cd eventos_crud/
+    7  ls
+    8  pipenv install flask
+    9  pip install -r requirements.txt 
+   10  sudo apt-get update
+   11  sudo apt-get install python3-pip nginx git -y
+   12  sudo apt-get update
+   13  }
+   14  sudo apt-get update
+   15  sudo apt-get install python3-venv
+   16  ls
+   17  sudo apt-get install mysql-server
+   18  sudo apt-get update
+   19  sudo mysql -uroot -p
+   20  ls
+   21  python3 -m venv venv  
+   22  history
