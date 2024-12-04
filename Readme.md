@@ -2,8 +2,8 @@
 
 
 # Despliegue
-# Paso 1. Crear repositorio
-# Paso 2. Subir archivos
+### Paso 1. Crear repositorio
+### Paso 2. Subir archivos
 ``` 
 git init
 git remote add origin https://github.com/ever4ever-ing/eventos_crud.git
